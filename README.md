@@ -17,10 +17,6 @@ Interested? Try Purplelight out
 
 Purplelight is also completely configurable. This means you can turn on/off features to make Purplelight fit your specific use case. For more information on Purplelight and its features, see our [documentation](https://github.com/BelalQuamar/Purplelight/wiki).
 
-For a overview of how Purplelight works, checkout our Introduction to Purplelight Video:
-
-[![Purplelight Overview](https://img.youtube.com/vi/Hso8yLzkqj8/0.jpg)](https://youtu.be/Hso8yLzkqj8)
-
 ## Installation on a BigBlueButton Server
 
 Purplelight is designed to work on a [BigBlueButton 2.0](https://github.com/bigbluebutton/bigbluebutton) (or later) server.
@@ -31,8 +27,8 @@ For information on installing Purplelight, checkout our [Installing Purplelight 
 
 Purplelight is built using php . Many developers already know php well, and we wanted to create both a full front-end to BigBlueButton but also a reference implementation of how to fully leverage the [BigBlueButton API](http://docs.bigbluebutton.org/dev/api.html).
 
-We invite you to build upon Purplelight and help make it better. See [Contributing to BigBlueButton](https://github.com/BelalQuamar/Purplelight/wiki#contributing-to-bigbluebutton).
+We invite you to build upon Purplelight and help make it better. See [Contributing to Purplelight](https://github.com/BelalQuamar/Purplelight/wiki#contributing-to-bigbluebutton).
 
-We invite your feedback, questions, and suggests about Purplelight too. Please post them to the [developer mailing list](https://groups.google.com/forum/#!forum/bigbluebutton-dev).
+We invite your feedback, questions, and suggests about Purplelight too. Please post them to the [developer mailing list](https://groups.google.com/g/purplelight).
 ##
 and yes,this text is an exact copy of greenlight, why waste time on writing text when you can code.
